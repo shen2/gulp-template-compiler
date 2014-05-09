@@ -1,0 +1,34 @@
+{
+  "name": "gulp-template-compiler",
+  "version": "0.1.0",
+  "description": "a gulp plugin can compile any template engine",
+  "main": "index.js",
+  "dependencies": {
+    "through": "*",
+    "gulp-util": "*"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shen2/gulp-template-compiler.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp"
+  ],
+  "author": {
+    "name": "shen2",
+    "email": "zhenyupku@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shen2/gulp-template-compiler/issues"
+  },
+  "engines": {
+    "node": ">=0.9"
+  },
+  "readmeFilename": "README.md"
+}
